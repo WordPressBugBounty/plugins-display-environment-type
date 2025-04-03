@@ -1,6 +1,6 @@
 === Display Environment Type ===
 Contributors: roytanck, markjaquith, tflight, mrwweb, tekapo
-Tags: environment type, dtap, production, staging, development
+Tags: environment type, dtap, production, staging, adopt-me
 Requires at least: 5.5
 Tested up to: 6.7
 Requires PHP: 5.6
@@ -10,6 +10,8 @@ License: GPLv3
 Displays WordPress 5.5's new environment type setting in the admin bar and the 'at a glance' dashboard widget.
  
 == Description ==
+
+** This plugin is no longer being maintained, and is available for adoption. Please contact me if you're interested in taking over development. **
 
 WordPress 5.5 introduces a way to differentiate between environment types (development, staging, production). This plugin displays your site's environment type on the admin bar.
 
